@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/wldevproject">
   <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wldevproject&layout=compact&hide=css,html,php,javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4"/>
 </a>
+<a href="http://www.github.com/wldevproject"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wldevproject&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ 
